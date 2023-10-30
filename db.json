@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "elzar",
+      "lastName": "XXX",
+      "phone": "123",
+      "imgUrl": "https://img.championat.com/c/900x900/news/big/e/u/venom-2-samyj-kassovyj-film-2021-goda-dlya-rossii-sbory-vyshe-2-048-mlrd-rublej_16372547902097224411.jpg",
+      "id": 1
+    },
+    {
+      "name": "21",
+      "lastName": "qwe",
+      "phone": "qw",
+      "imgUrl": "https://icdn.lenta.ru/images/2023/08/03/16/20230803162131311/wide_4_3_86c2d2efd951a1f2c5e7c2d964734f47.jpg",
+      "id": 2
+    },
+    {
+      "name": "Mather",
+      "lastName": "Dragons",
+      "phone": "123",
+      "imgUrl": "https://media.newyorker.com/photos/598872045839136c88e91dfb/master/w_2560%2Cc_limit/Larson-GoT-Season-7-Episode-4-Recap.jpg",
+      "id": 3
+    }
+  ]
+}
